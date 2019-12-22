@@ -26,10 +26,7 @@ javac @sources.txt
 ```
 dir /s /B *.java > sources.txt
 javac @sources.txt
-```
-
-
-También se puede utilizar el `compile.sh`
+````
 
 ### Cómo ejecutar el proyecto
 
