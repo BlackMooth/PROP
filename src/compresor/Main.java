@@ -9,7 +9,7 @@ En este proyecto creamos una aplicación Java para comprimir ficheros de texto y
  */
 /**
  * @file Main.java
- * @author Felipe Ramis
+ * @author Daniel Donate
  * @brief Contiene la clase main del programa
  */
 
